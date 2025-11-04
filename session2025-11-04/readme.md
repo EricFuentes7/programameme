@@ -1,5 +1,8 @@
 # Benviguts a la desesperació i a la dopamina
 
+
+![Sessió 1, discord](./sessio.png)
+
 ## Que necessitem?
 
 Hem decidit que el llenguatge `c++` serà el llenguatge oficial per a `programameme`. Per què? Perquè és molt menys verbose que el `java`. Quan es pugui fer servir `java 25` a `Programame` llavors canviarem de llenguatge, perquè té molt de 'sytax sugar' que fa que sigui més senzill de fer servir.
