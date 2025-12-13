@@ -1,3 +1,9 @@
+## Xuletes C++
+
+* [vector](./xuleta_vector.md)
+* [set](./xuleta_set.md)
+* [unordered_set](./xuleta_unordered_set.md)
+
 ## Exercicis Acepta el Reto
 
 Hem fet amb en Ruben:
